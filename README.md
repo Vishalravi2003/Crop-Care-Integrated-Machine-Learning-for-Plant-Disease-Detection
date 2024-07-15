@@ -1,0 +1,1 @@
+# Crop-Care-Integrated-Machine-Learning-for-Plant-Disease-Detection
